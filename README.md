@@ -1,61 +1,61 @@
-## �ȸ����ѧϰ�ٳɿγ̱��������ϰ�ʼ�
+## 谷歌机器学习速成课程编程中文练习笔记
 
-���ֿⱸ�������еĿγ̱����ϰ�ʼǣ��Լ������ļ�
+本仓库备份了所有的课程编程练习笔记，以及数据文件，便于无法访问笔记用户学习
 
-ʱ�䣺2018-4-25
+时间：2018-4-25
 
-�γ̵�ַ��https://developers.google.cn/machine-learning/crash-course
+课程地址：https://developers.google.cn/machine-learning/crash-course
 
-��ϰĿ¼��https://developers.google.cn/machine-learning/crash-course/exercises
+练习目录：https://developers.google.cn/machine-learning/crash-course/exercises
 
-### ��ϰ�ʼ�
+### 练习笔记
 
-���ԣ�Python2.7 Jupyter Notebook
+语言：Python2.7 Jupyter Notebook
 
-### Ԥ��
+### 预热
 
-* �����ϰ��(TensorFlow) Hello World
-* �����ϰ��TensorFlow ��̸���
-* �����ϰ�������Ͳٿ�����
-* �����ϰ��Pandas ���
+* 编程练习：(TensorFlow) Hello World
+* 编程练习：TensorFlow 编程概念
+* 编程练习：创建和操控张量
+* 编程练习：Pandas 简介
 
-### ʹ�� TensorFlow ����ʼ����
+### 使用 TensorFlow 的起始步骤
 
-* �����ϰ��ʹ�� TensorFlow ����ʼ����
-* �����ϰ���ϳ���������Ⱥֵ
+* 编程练习：使用 TensorFlow 的起始步骤
+* 编程练习：合成特征和离群值
 
-### ��֤
+### 验证
 
-* �����ϰ����֤
+* 编程练习：验证
 
-### ��ʾ
+### 表示
 
-* �����ϰ��������
+* 编程练习：特征集
 
-### �������
+### 特征组合
 
-* �����ϰ���������
+* 编程练习：特征组合
 
-### ����
+### 分类
 
-* �����ϰ���߼��ع�
+* 编程练习：逻辑回归
 
-### ϡ��������
+### 稀疏性正则化
 
-* �����ϰ��ϡ���Ժ� L1 ����
+* 编程练习：稀疏性和 L1 正则化
 
-### ��������
+### 神经网络简介
 
-* �����ϰ����������
+* 编程练习：神经网络简介
 
-### ѵ��������
+### 训练神经网络
 
-* �����ϰ����������������
+* 编程练习：提高神经网络的性能
 
-### �����������
+### 多类别神经网络
 
-* �����ϰ��ʹ�����������д���ֽ��з���
+* 编程练习：使用神经网络对手写数字进行分类
 
-### Ƕ��
+### 嵌套
 
-* �����ϰ��ϡ�����ݺ�Ƕ�׼��
+* 编程练习：稀疏数据和嵌套简介
